@@ -16,4 +16,5 @@
 # Merge Conflict - Happens when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge. 
 # Fetch - A command that downloads commits, files, and refs from a remote repository into your local repo.
 # Remote - The place where your code is stored.
+# -- References --
 # References used for this include google search for the defintions and for the tutorial I used the information found in Github.
