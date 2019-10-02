@@ -2,7 +2,4 @@
 # Steps to using Github
 
 # Step 1 - Create a Github account and install git
-# Step 2 -
-
-
-
+# Step 2 - Create a repository 
