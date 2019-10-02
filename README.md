@@ -1,4 +1,8 @@
 # A03
 # Steps to using Github
-<br>
-# Step 1 -  
+
+# Step 1 - Create a Github account and install git
+# Step 2 -
+
+
+
