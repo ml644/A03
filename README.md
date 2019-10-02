@@ -1,9 +1,9 @@
 # A03
-# Steps to using Github
+# -- Steps to using Github --
 # Step 1 - Create a Github account and install git
 # Step 2 - Look for "Learn Git and Github without any code!". It should be in green and say "Read the guide". 
 # Step 3 - After completing the previous line read the following definitions to better help you understand the jargon for Github.
-# Definitions for Github
+# -- Definitions for Github --
 # GIT - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
 # GITHUB - A web-based version-control and collaboration platform for software developers. 
 # Repository - A folder for your project. 
